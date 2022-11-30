@@ -1,0 +1,6 @@
+
+z
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(Ÿ®‹’
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÁ¶ê
+X
+java:S16593"BDeclare "title" and all following declarations on a separate line.(¬ç´Ä

@@ -1,0 +1,24 @@
+
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÍë€øÿÿÿÿ
+f	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÀÒ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò×¯â
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÇıøúÿÿÿÿ
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÎÏ
+=
+java:S1604>"(Make this anonymous inner class a lambda(œŸ´
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²õ³“ùÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨‰ïÃ
+>
+java:S1659("#Declare "title" on a separate line.(ÁĞ¨¨ıÿÿÿÿ
+Q
+java:S1874+"6Remove this use of "ProgressDialog"; it is deprecated.(¹£½­úÿÿÿÿ
+L
+java:S1874:"6Remove this use of "ProgressDialog"; it is deprecated.(‘õ—™
+M
+java:S1874P"2Remove this use of "setMessage"; it is deprecated.(çöíÖşÿÿÿÿ
+N
+java:S1874R"8Remove this use of "setIndeterminate"; it is deprecated.(ŸƒÄÔ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Äà‡†
+i	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÊş£ıÿÿÿÿ

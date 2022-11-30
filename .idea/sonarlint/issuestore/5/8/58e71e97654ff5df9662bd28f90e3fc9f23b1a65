@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¶Ó„ùÿÿÿÿ
+j	java:S116"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü´ž×ÿÿÿÿÿ
+f	java:S116"QRename this field "Amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‡Çž
+d	java:S116"ORename this field "Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¢‹¿
