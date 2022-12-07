@@ -24,8 +24,6 @@ t
 Dapp/src/main/java/com/project/simbabank/Activity/SplashActivity.java,c\2\c2c60cd06f4623d795e03755c054583cee354ce3
 H
 app/google-services.json,f\d\fd8d34b142d02ec743a8efefefd2c097961666e9
-@
-app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 n
@@ -38,12 +36,8 @@ x
 Happ/src/main/java/com/project/simbabank/Interceptor/AuthInterceptor.java,a\0\a0a1b3edf5cff624e86ac5bb4b7fdeb7979f576e
 f
 6app/src/main/java/com/project/simbabank/Constants.java,8\3\831e3b349a3c8a5cfcb932309a3dd12a94f4a4e9
-l
-<app/src/main/java/com/project/simbabank/DarajaApiClient.java,e\d\ed686961dbe89986ae6a1b207601a4cb0c86d237
 u
 Eapp/src/main/java/com/project/simbabank/Activity/DepositActivity.java,2\d\2d6c5fd29f80f288192cae439b8d466dbbb1fa29
-i
-9app/src/main/java/com/project/simbabank/MainActivity.java,b\5\b56e7673a788906c5bc9fcb962a102ce6f96da63
 z
 Japp/src/main/java/com/project/simbabank/Authentication/SignInActivity.java,7\a\7ac8267b330c7fddb21a8f6ad3f82466786c1ff3
 z
@@ -54,8 +48,6 @@ t
 Dapp/src/main/java/com/project/simbabank/Services/STKPushService.java,e\f\efd2d83aec04d83559804f386502498bc56da328
 t
 Dapp/src/main/java/com/project/simbabank/Model/SubscriptionModel.java,b\2\b23103db2c80216c997cdef0491fff2c92c3458f
-x
-Happ/src/main/java/com/project/simbabank/Adapters/TransactionAdapter.java,2\2\22aea1a9c301d9f880bf884f5f7f5b45366f774d
 s
 Capp/src/main/java/com/project/simbabank/Model/TransactionModel.java,5\8\58e71e97654ff5df9662bd28f90e3fc9f23b1a65
 g
@@ -64,3 +56,17 @@ b
 2app/src/main/java/com/project/simbabank/Utils.java,3\c\3ceddad338aba51fdbe68039d9ce1fe2871304c7
 u
 Eapp/src/main/java/com/project/simbabank/Activity/SuccessActivity.java,3\7\37a6e4b3b7ce766447c3878f3d1f23cc040dfca9
+v
+Fapp/src/main/java/com/project/simbabank/Activity/PaymentsActivity.java,b\1\b1fdebfb2b09aa2b88cb360665f476a619114e80
+s
+Capp/src/main/java/com/project/simbabank/Activity/MoneyActivity.java,4\8\48718bc1bac0bf47ac7d45d8f2d9fdbba60e851b
+v
+Fapp/src/main/java/com/project/simbabank/Activity/TransferActivity.java,1\2\12f16d43f152efc56b650c21aa3d177d9b0d4b78
+y
+Iapp/src/main/java/com/project/simbabank/Adapters/SubscriptionAdapter.java,f\1\f17b465e4887525f754686342d219e4493b7cf02
+x
+Happ/src/main/java/com/project/simbabank/Adapters/TransactionAdapter.java,2\2\22aea1a9c301d9f880bf884f5f7f5b45366f774d
+l
+<app/src/main/java/com/project/simbabank/DarajaApiClient.java,e\d\ed686961dbe89986ae6a1b207601a4cb0c86d237
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164

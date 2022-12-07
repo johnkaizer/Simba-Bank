@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     TransactionAdapter transactionAdapter;
     ArrayList<TransactionModel> list;
     CardView card1, card, card3;
-    TextView date,account,name,amount;
+    TextView date,amount;
     private ProgressBar progressBar;
     private FirebaseUser user;
     private DatabaseReference reference;
@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        amount = findViewById(R.id.amount_text);
         progressBar =findViewById(R.id.progressBar3);
         card1 = findViewById(R.id.c1);
         card = findViewById(R.id.c2);
@@ -75,8 +76,6 @@ public class MainActivity extends AppCompatActivity {
         Calendar calendar = Calendar.getInstance();
         String currentDate = DateFormat.getDateInstance().format(calendar.getTime());
         date.setText(currentDate);
-
-
         //Transactions
         trans = findViewById(R.id.transaction_rv);
         databaseReference = FirebaseDatabase.getInstance().getReference().child("TransactionDetails");
@@ -101,8 +100,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
-
         ///user details
         progressBar.setVisibility(View.VISIBLE);
         user = FirebaseAuth.getInstance().getCurrentUser();
