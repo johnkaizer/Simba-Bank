@@ -1,0 +1,8 @@
+
+y
+java:S1319"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(Ïš‹h
+E
+java:S1604*"(Make this anonymous inner class a lambda(Ö¹™º8ƒî„ëÊ0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÁ¶ê8‰³ýíÊ0
+S
+java:S1172"7Remove this unused method parameter "paymentsActivity".(Ïš‹h8ÀµýíÊ0
